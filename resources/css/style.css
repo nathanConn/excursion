@@ -5,8 +5,8 @@ h1, h2, p {
   font-family: Verdana;
   text-align: center;
 }
-#downloadLink {
-  color: Aquamarine;
+#downloadLink a{
+  color: #7FFFD4;
   font-size: 16px;
 }
 h1, h2 {
